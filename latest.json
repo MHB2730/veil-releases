@@ -1,6 +1,6 @@
-﻿{
-    "version":  "0.1.1",
-    "installer_url":  "https://github.com/MHB2730/veil-releases/releases/download/v0.1.1/Veil-Setup-0.1.1.exe",
-    "sha256":  "17ed5a5235e24bfc8d9d30dd1d91dcdadd23a27e1e2ff3a2d94345a4e802465e",
-    "notes":  "Brand refresh: new shield logo and a proper logged-in landing (welcome hero, matter cards, search, empty state)."
+{
+  "version": "0.1.1",
+  "installer_url": "https://github.com/MHB2730/veil-releases/releases/download/v0.1.1/Veil-Setup-0.1.1.exe",
+  "sha256": "17ed5a5235e24bfc8d9d30dd1d91dcdadd23a27e1e2ff3a2d94345a4e802465e",
+  "notes": "Brand refresh: new shield logo and a proper logged-in landing (welcome hero, matter cards, search, empty state)."
 }
